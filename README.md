@@ -12,7 +12,8 @@ This repository contains the KiCad hardware design files for the V3S Stepper rob
 
 ## Documentation
 
-### 📚 Quick Start
+### 📚 Navigation
+- **[DOCUMENTATION_INDEX.md](./DOCUMENTATION_INDEX.md)** - Complete guide to all documentation (start here!)
 - **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Fast reference guide for working with purple driver boards
 
 ### Assembly and Issues
@@ -29,7 +30,8 @@ This repository contains the KiCad hardware design files for the V3S Stepper rob
 
 ```
 V3S_Stepper_Hardware/
-├── README.md              # This file
+├── README.md              # This file - start here
+├── DOCUMENTATION_INDEX.md # Complete guide to all docs
 ├── QUICK_REFERENCE.md     # Fast reference guide
 ├── KICAD_ISSUES.md       # Issue tracking for KiCad project
 ├── CHANGES_NEEDED.md     # Required changes documentation
