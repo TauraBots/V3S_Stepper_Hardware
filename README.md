@@ -12,10 +12,14 @@ This repository contains the KiCad hardware design files for the V3S Stepper rob
 
 ## Documentation
 
+### 📚 Quick Start
+- **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Fast reference guide for working with purple driver boards
+
 ### Assembly and Issues
 - **[KICAD_ISSUES.md](./KICAD_ISSUES.md)** - Comprehensive tracking of issues discovered during purple driver assembly
 - **[CHANGES_NEEDED.md](./CHANGES_NEEDED.md)** - Detailed list of required changes to the KiCad project
 - **[ASSEMBLY_NOTES.md](./ASSEMBLY_NOTES.md)** - Assembly procedures, best practices, and troubleshooting
+- **[ISSUE_TEMPLATE.md](./ISSUE_TEMPLATE.md)** - Template for documenting new issues
 
 ### Related Issues
 - [Issue #1: Init commit](https://github.com/TauraBots/V3S_Stepper_Hardware/issues/1) - Add KiCad hardware project with BOM
@@ -26,9 +30,11 @@ This repository contains the KiCad hardware design files for the V3S Stepper rob
 ```
 V3S_Stepper_Hardware/
 ├── README.md              # This file
+├── QUICK_REFERENCE.md     # Fast reference guide
 ├── KICAD_ISSUES.md       # Issue tracking for KiCad project
 ├── CHANGES_NEEDED.md     # Required changes documentation
 ├── ASSEMBLY_NOTES.md     # Assembly procedures and notes
+├── ISSUE_TEMPLATE.md     # Template for documenting issues
 └── [KiCad project files to be added per Issue #1]
 ```
 
